@@ -33,9 +33,9 @@ After successfully completing FullStack Web Developer course with MIT xPro, I am
 
 | Exercises |  icon | Description | Link |
 | --- | --- | --- | --- |
-| PacMen |  | PacMen Factory Repository |  |
-| Eye | 👀 | Eye Exercise Repository |  |
-| Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  |
+| PacMen | | PacMen Factory Repository |  | |
+| Eye | 👀 | Eye Exercise Repository |  | |
+| Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  | |
 
 
 
