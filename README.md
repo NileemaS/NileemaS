@@ -2,8 +2,9 @@
 
 
 ## I'm a starter Fullstack Web Developer thro' MIT|xPRO. 
+After successfully completing FullStack Web Developer course with MIT xPro, I am ready to take a flight again in IT market. <br>It was a fun to work on all these challenging projects.
 
-
+<br>
 > Email me @nileemashah@yahoo.com  /  nileemashah123@gmail.com
 > <br> You can also find me on   <a href="https://www.linkedin.com/feed/">
 > <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/>
@@ -25,6 +26,7 @@
 </p>
 </details>
 --->
+
 
 
 ### *Worked On:*
@@ -53,7 +55,7 @@ NileemaS/NileemaS is a ✨ special ✨ repository,( to fit your writing style mo
 
   
 [^note]:
-    Copyrights @2022, All rights are reserved. 
+    Copyrights @2022, All rights are reserved with MIT | xPRO. 
     
    
 
