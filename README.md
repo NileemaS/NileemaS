@@ -27,7 +27,7 @@
 --->
 
 
-### *Assignments*:
+### *Worked On:*
 
 | Exercises |  icon | Description | Link |
 | --- | --- | --- | --- |
