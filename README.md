@@ -1,4 +1,66 @@
-Hello
+  <span> <img src="./bb.gif.gif" alt="Bouncing Balls GIF" > </span>  ***HELLO!*** 😃
+
+
+## I'm a starter Fullstack Web Developer thro' MIT|xPRO. 
+
+
+> Email me @nileemashah@yahoo.com  /  nileemashah123@gmail.com
+> <br> You can also find me on   <a href="https://www.linkedin.com/feed/">
+> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/>
+       </a>  
+
+
+
+
+<!---
+<details><summary>CLICK ME</summary>
+<p>
+
+#### We can hide anything, even code!
+
+    ```ruby
+      puts "Hello World"
+    ```
+
+</p>
+</details>
+--->
+
+
+### *Assignments*:
+
+| Exercises |  icon | Description | Link |
+| --- | --- | --- | --- |
+| PacMen |  | PacMen Factory Repository |  |
+| Eye | 👀 | Eye Exercise Repository |  |
+| Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  |
+
+
+
+
+### *What Technologies I know*:
+
+ <p float="left">
+  <img src="https://user-images.githubusercontent.com/96500743/156902929-21b303ee-e8ce-4f7e-97ea-9c722890ecbe.png" width="500" /></p>
+
+
+---
+
+
+
+
+NileemaS/NileemaS is a ✨ special ✨ repository,( to fit your writing style more closely[^note]).
+
+  
+[^note]:
+    Copyrights @2022, All rights are reserved. 
+    
+   
+
+
+
+
+
 
 <!---
 NileemaS/NileemaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
