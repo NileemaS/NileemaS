@@ -33,7 +33,7 @@ After successfully completing FullStack Web Developer course with MIT xPro, I am
 
 | Exercises |  icon | Description | Link |
 | --- | --- | --- | --- |
-| PacMen |<img width="1px" src="PacMan1.png" alt="pac man 1 image"> | PacMen Factory Repository |  | |
+| PacMen |<img width="20" src="PacMan1.png" alt="pac man 1 image"> | PacMen Factory Repository |  | |
 | Eye | 👀 | Eye Exercise Repository |  | |
 | Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  | |
 
@@ -51,20 +51,10 @@ After successfully completing FullStack Web Developer course with MIT xPro, I am
 
 
 
-NileemaS/NileemaS is a ✨ special ✨ repository,( to fit your writing style more closely[^note]).
+Thanks for visiting my repository,([^note]).
 
   
 [^note]:
     Copyrights @2022, All rights are reserved with MIT | xPRO. 
     
    
-
-
-
-
-
-
-<!---
-NileemaS/NileemaS is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
