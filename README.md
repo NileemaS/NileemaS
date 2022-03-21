@@ -1,10 +1,11 @@
   <span> <img src="./bb.gif.gif" alt="Bouncing Balls GIF" > </span>  ***HELLO!*** 😃
 
 
-## I'm a starter Fullstack Web Developer thro' MIT|xPRO. 
-After successfully completing FullStack Web Developer course with MIT xPro, I am ready to take a flight again in IT market. <br>It was a fun to work on all these challenging projects.
+### *Who I am:*
+I'm a starter Fullstack Web Developer thro' MIT|xPRO. 
+<br>It was a fun to work on all these challenging projects and ready to take a flight again in IT market.
 
-<br>
+<br> 
 > Email me @nileemashah@yahoo.com  /  nileemashah123@gmail.com
 > <br> You can also find me on   <a href="https://www.linkedin.com/feed/">
 > <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/>
@@ -33,9 +34,9 @@ After successfully completing FullStack Web Developer course with MIT xPro, I am
 
 | Exercises |  icon | Description | Link |
 | --- | --- | --- | --- |
-| PacMen |<img width="20" src="PacMan1.png" alt="pac man 1 image"> | PacMen Factory Repository |  | |
-| Eye | 👀 | Eye Exercise Repository |  | |
-| Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  | |
+| PacMen |<img width="20" src="PacMan1.png" alt="pac man 1 image"> | PacMen Factory Repository |  |
+| Eye | 👀 | Eye Exercise Repository |  |
+| Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  |
 
 
 
@@ -55,6 +56,6 @@ Thanks for visiting my repository,([^note]).
 
   
 [^note]:
-    Copyrights @2022, All rights are reserved with MIT | xPRO. 
+    Copyrights @2022, All rights are reserved with MIT xPRO. 
     
    
