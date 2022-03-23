@@ -1,16 +1,33 @@
   <span> <img src="./bb.gif.gif" alt="Bouncing Balls GIF" > </span>  ***HELLO!*** 😃
 
 
+
+### Author
+
+- 💼 Nileema Shah: [portfolio](https://NileemaS.github.io)
+- :octocat: Github: [Projects](https://www.github.com/NileemaS)
+- EmailMe@: nileemashah@yahoo.com /  nileemashah123@gmail.com
+- <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Resume </a> 
+
+
+
 ### *Who I am:*
 I'm a starter Fullstack Web Developer thro' MIT|xPRO. 
 <br>It was a fun to work on all these challenging projects and ready to take a flight again in IT market.
 
-<br> 
-> Email me @nileemashah@yahoo.com  /  nileemashah123@gmail.com
-> <br> You can also find me on   <a href="https://www.linkedin.com/feed/">
-> <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/>
-       </a>  
+## Table of Contents
 
+* [Installation](#installation)
+* [Usage](#usage)
+    * [Screenshots](#screenshots)
+* [Credits](#credits)
+* [License](#license)
+
+
+
+## Installation
+
+This application is compatible with the most commonly used web browsers.
 
 
 
@@ -45,17 +62,27 @@ I'm a starter Fullstack Web Developer thro' MIT|xPRO.
 
  <p float="left">
   <img src="https://user-images.githubusercontent.com/96500743/156902929-21b303ee-e8ce-4f7e-97ea-9c722890ecbe.png" width="500" /></p>
+  
+  
+  
+### Built With
+
+<p>
+    <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" />
+    <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" />
+    <img src="https://img.shields.io/badge/-Javascript-yellow?style=for-the-badge" alt="Javascript" />
+    <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" />
+   
+</p>
+
+
+
 
 
 ---
 
 
-
-
-Thanks for visiting my repository,([^note]).
-
-  
+### License ([^note]) 
 [^note]:
-    Copyrights @2022, All rights are reserved with MIT xPRO. 
-    
-   
+    Copyrights @2022, All rights are reserved  <img align="center" src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license" /> 
+ 
