@@ -1,4 +1,7 @@
-  <span> <img src="./bb.gif.gif" alt="Bouncing Balls GIF" > </span>  ***HELLO!*** 😃
+
+|  <span width = "90%"> <img src="./bb.gif.gif" alt="Bouncing Balls GIF" > </span>  ***HELLO!*** 😃   |
+|  ---                                                                                  | 
+                                                                                     
 
 
 
@@ -88,5 +91,4 @@ This application is compatible with the most commonly used web browsers.
 
 ### License ([^note]) 
 [^note]:
-    Copyrights @2022, All rights are reserved  <img align="center" src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license" /> 
- 
+    Copyrights @2022, All rights are reserved  <img align="center" src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license" />  
