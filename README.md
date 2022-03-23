@@ -1,11 +1,11 @@
 
-|  <span width = "90%"> <img src="./bb.gif.gif" alt="Bouncing Balls GIF" > </span>  ***HELLO!*** 😃   |
-|  ---                                                                                  | 
-                                                                                     
+|  <p float="center">  <img src="./bb.gif.gif" alt="Bouncing Balls GIF" >   ***HELLO!*** 😃  </p> |
+|  :---------------------------------------------------------------------------------: |
+                                                                                   
 
 
 
-### Author
+### Author  
 
 - 💼 Nileema Shah: [portfolio](https://NileemaS.github.io)
 - :octocat: Github: [Projects](https://www.github.com/NileemaS)
@@ -22,13 +22,14 @@
 I'm a starter Fullstack Web Developer thro' MIT|xPRO. 
 <br>It was a fun to work on all these challenging projects and ready to take a flight again in IT market.
 
-## Table of Contents
+
+ ## Table of Contents 
 
 * [Installation](#installation)
-* [Usage](#usage)
+* [License](#License)
     * [Screenshots](#screenshots)
 * [Credits](#credits)
-* [License](#license)
+* [License](#icense)
 
 
 
@@ -81,14 +82,16 @@ This application is compatible with the most commonly used web browsers.
     <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" />
    
 </p>
+<br>
 
 
 
 
 
----
 
 
 ### License ([^note]) 
+
+
 [^note]:
     Copyrights @2022, All rights are reserved  <img align="center" src="https://img.shields.io/badge/license-MIT-blue" alt="MIT license" />  
