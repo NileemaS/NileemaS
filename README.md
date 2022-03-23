@@ -6,8 +6,12 @@
 
 - 💼 Nileema Shah: [portfolio](https://NileemaS.github.io)
 - :octocat: Github: [Projects](https://www.github.com/NileemaS)
-- EmailMe@: nileemashah@yahoo.com /  nileemashah123@gmail.com
-- <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Resume </a> 
+
+
+- <img src = "https://user-images.githubusercontent.com/96500743/159628684-930b27c8-946a-4107-aebe-5f7046b9f6c5.png" alt="Email" />Me@: nileemashah@yahoo.com /  nileemashah123@gmail.com
+- <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> My Resume </a> 
+
+
 
 
 
@@ -55,7 +59,7 @@ This application is compatible with the most commonly used web browsers.
 | Eye | 👀 | Eye Exercise Repository |  |
 | Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  |
 
-
+![Site](./src/assets/images/responsive.gif)
 
 
 ### *What Technologies I know*:
