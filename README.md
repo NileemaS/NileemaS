@@ -3,28 +3,23 @@
 
  
  
-|  <pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" > I'm a starter Fullstack Web Developer thro' MIT|xPRO. 
-<br>It was a fun to work on all these challenging projects and ready to take a flight again in IT market. </span></pre> |
-|  :---------------------------------------------------------------------------------: |
+<pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" > I'm a starter Fullstack Web Developer thro' MIT|xPRO. <br><p><em> It was a fun to work on all these challenging projects and ready to take a flight again in IT market.</em></p> </pre> 
 
-`      `
+## Table of Contents 
+
+* [Installation](#installation)
+* [Author](#author)   
+* [Projects](#projects)
+* [Technologies](#technologies)
+* [Built With and License](#used) 
+
+
 
 <p><a href="mailto:nileemashah@yahoo.com">Email Me</a></p>
 
 
 <p>[foo<a href="http://example.com/?search=%5D%5Bref%5D">http://example.com/?search=][ref]</a></p>
 
-
-
-
- <p><em>Markdown</em></p>
- 
-
- 
-
-<pre><code>&lt;
- &gt;
-</code></pre>
 
 
 ![Nileema's GitHub stats](https://github-readme-stats.vercel.app/api?username=NileemaS&show_icons=true&hide=contribs&theme=gruvbox_light)
@@ -45,7 +40,7 @@
  
  
  
-### Author  
+## Author:  
 
 - 💼 Nileema Shah: [portfolio](https://NileemaS.github.io)
 - :octocat: Github: [Projects](https://www.github.com/NileemaS)
@@ -57,22 +52,7 @@
 
 
 
-
-### *Who I am:*
-
-
-
- ## Table of Contents 
-
-* [Installation](#installation)
-* [License](#License)
-    * [Screenshots](#screenshots)
-* [Credits](#credits)
-* [License](#icense)
-
-
-
-## Installation
+## Installation:
 
 This application is compatible with the most commonly used web browsers.
 
@@ -94,7 +74,7 @@ This application is compatible with the most commonly used web browsers.
 
 
 
-### *Worked On:*
+## Projects:
 
 | Exercises |  icon | Description | Link |
 | --- | --- | --- | --- |
@@ -105,14 +85,14 @@ This application is compatible with the most commonly used web browsers.
 ![Site](./src/assets/images/responsive.gif)
 
 
-### *What Technologies I know*:
+## Technologies:
 
  <p float="left">
   <img src="https://user-images.githubusercontent.com/96500743/156902929-21b303ee-e8ce-4f7e-97ea-9c722890ecbe.png" width="500" /></p>
   
   
   
-### Built With
+## Used:
 
 <p>
     <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" />
