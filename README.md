@@ -1,7 +1,30 @@
 
-|  <p float="center">  <img src="./bb.gif.gif" alt="Bouncing Balls GIF" >   ***HELLO!*** 😃  </p> |
+![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=40&fontAlign=left)
+
+ 
+ 
+|  <pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" >   ***HELLO!*** 😃 <span> `                          ` </span></pre> |
 |  :---------------------------------------------------------------------------------: |
-                                                                                   
+
+`
+`
+
+<p><a href="mailto:nileemashah@yahoo.com">Email Me</a></p>
+
+
+<p>[foo<a href="http://example.com/?search=%5D%5Bref%5D">http://example.com/?search=][ref]</a></p>
+
+
+
+
+ <p><em>Markdown</em></p>
+ 
+
+ 
+
+<pre><code>&lt;
+ &gt;
+</code></pre>
 
 
 ![Nileema's GitHub stats](https://github-readme-stats.vercel.app/api?username=NileemaS&show_icons=true&hide=contribs&theme=gruvbox_light)
