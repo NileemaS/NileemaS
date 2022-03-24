@@ -1,9 +1,10 @@
 
-![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:a82da8&height=150&section=header&text=Hello%20World&fontSize=30&desc=Hello%20capsule%20render&animation=scaleIn&fontAlign=20&rotate=-30)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:a82da8&height=150&section=header&text=Hello%20World!&fontSize=30&desc=Welcome%20To%20My%20Future%0ABouce&animation=scaleIn&fontAlign=20&rotate=-30)
 
  
  
-|  <pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" >   ***HELLO!*** 😃 <span> `                          ` </span></pre> |
+|  <pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" > I'm a starter Fullstack Web Developer thro' MIT|xPRO. 
+<br>It was a fun to work on all these challenging projects and ready to take a flight again in IT market. </span></pre> |
 |  :---------------------------------------------------------------------------------: |
 
 `      `
@@ -58,8 +59,7 @@
 
 
 ### *Who I am:*
-I'm a starter Fullstack Web Developer thro' MIT|xPRO. 
-<br>It was a fun to work on all these challenging projects and ready to take a flight again in IT market.
+
 
 
  ## Table of Contents 
