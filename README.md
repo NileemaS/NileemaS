@@ -4,7 +4,13 @@
                                                                                    
 
 
+![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NileemaS&show_icons=true&hide=contribs&theme=gruvbox_light)
 
+[![Bouncing Balls](https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=bouncingballs&theme=highcontrast)](https://nileemas.github.io/bouncingballs)
+
+ [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NileemaS&custom_title=Languages%20Used&theme=gruvbox_light&hide=Dockerfile)](https://github.com/NileemaS/github-readme-stats)
+ 
+ 
 ### Author  
 
 - 💼 Nileema Shah: [portfolio](https://NileemaS.github.io)
