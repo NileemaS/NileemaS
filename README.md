@@ -1,13 +1,12 @@
 
-![header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=250&section=header&text=Hello%20World&fontSize=40&fontAlign=left)
+![header](https://capsule-render.vercel.app/api?type=cylinder&color=0:EEFF00,100:a82da8&height=150&section=header&text=Hello%20World&fontSize=30&desc=Hello%20capsule%20render&animation=scaleIn&fontAlign=20&rotate=-30)
 
  
  
 |  <pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" >   ***HELLO!*** 😃 <span> `                          ` </span></pre> |
 |  :---------------------------------------------------------------------------------: |
 
-`
-`
+`      `
 
 <p><a href="mailto:nileemashah@yahoo.com">Email Me</a></p>
 
