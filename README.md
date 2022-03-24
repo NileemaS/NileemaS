@@ -4,11 +4,22 @@
                                                                                    
 
 
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=NileemaS&show_icons=true&hide=contribs&theme=gruvbox_light)
+![Nileema's GitHub stats](https://github-readme-stats.vercel.app/api?username=NileemaS&show_icons=true&hide=contribs&theme=gruvbox_light)
 
 [![Bouncing Balls](https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=bouncingballs&theme=highcontrast)](https://nileemas.github.io/bouncingballs)
 
- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=NileemaS&custom_title=Languages%20Used&theme=gruvbox_light&hide=Dockerfile)](https://github.com/NileemaS/github-readme-stats)
+ [![Langs Used for Dev](https://github-readme-stats.vercel.app/api/top-langs/?username=NileemaS&custom_title=Languages%20Used&theme=gruvbox_light&hide=Dockerfile&layout=compact)](https://github.com/NileemaS/github-readme-stats)
+ 
+ <a href="https://github.com/NileemaS/github-readme-stats">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=NileemaS" />
+</a>
+<a href="https://github.com/NileemaS/bouncingballs">
+  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=bouncingballs" />
+</a>
+ 
+ 
+ 
+ 
  
  
 ### Author  
