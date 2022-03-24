@@ -8,10 +8,10 @@
 ## Table of Contents 
 
 * [Installation](#installation)
-* [Author](#author)   
+* [Contact](#contact)   
 * [Projects](#projects)
 * [Technologies](#technologies)
-* [Used and License](#used) 
+* [Github Stats and License](#stats) 
 
 
 
@@ -22,11 +22,11 @@
 
 
 
-![Nileema's GitHub stats](https://github-readme-stats.vercel.app/api?username=NileemaS&show_icons=true&hide=contribs&theme=gruvbox_light)
+
 
 [![Bouncing Balls](https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=bouncingballs&theme=highcontrast)](https://nileemas.github.io/bouncingballs)
 
- [![Langs Used for Dev](https://github-readme-stats.vercel.app/api/top-langs/?username=NileemaS&custom_title=Languages%20Used&theme=gruvbox_light&hide=Dockerfile&layout=compact)](https://github.com/NileemaS/github-readme-stats)
+
  
  <a href="https://github.com/NileemaS/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=NileemaS" />
@@ -35,20 +35,14 @@
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=bouncingballs" />
 </a>
  
+  
  
+## Contact:  
  
- 
- 
- 
-## Author:  
-
+- <a href="mailto:nileemashah@yahoo.com"><img src = "https://user-images.githubusercontent.com/96500743/159628684-930b27c8-946a-4107-aebe-5f7046b9f6c5.png" alt="Email" />Email Me </a>
+- <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Connect Me </a> 
 - 💼 Nileema Shah: [portfolio](https://NileemaS.github.io)
 - :octocat: Github: [Projects](https://www.github.com/NileemaS)
-
-
-- <img src = "https://user-images.githubusercontent.com/96500743/159628684-930b27c8-946a-4107-aebe-5f7046b9f6c5.png" alt="Email" />Me@: nileemashah@yahoo.com /  nileemashah123@gmail.com
-- <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> My Resume </a> 
-
 
 
 
@@ -77,23 +71,15 @@ This application is compatible with the most commonly used web browsers.
 ## Projects:
 
 | Exercises |  icon | Description | Link |
-| --- | --- | --- | --- |
+| :---: | :---: | :---: | :---: |
 | PacMen |<img width="20" src="PacMan1.png" alt="pac man 1 image"> | PacMen Factory Repository |  |
 | Eye | 👀 | Eye Exercise Repository |  |
 | Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  |
 
-![Site](./src/assets/images/responsive.gif)
+
 
 
 ## Technologies:
-
- <p float="left">
-  <img src="https://user-images.githubusercontent.com/96500743/156902929-21b303ee-e8ce-4f7e-97ea-9c722890ecbe.png" width="500" /></p>
-  
-  
-  
-## Used:
-
 <p>
     <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" />
     <img src="https://img.shields.io/badge/-CSS-blue?style=for-the-badge" alt="CSS" />
@@ -101,12 +87,19 @@ This application is compatible with the most commonly used web browsers.
     <img src="https://img.shields.io/badge/-Bootstrap-blueviolet?style=for-the-badge" alt="Bootstrap" />
    
 </p>
+
+ <p float="left">
+  <img src="https://user-images.githubusercontent.com/96500743/156902929-21b303ee-e8ce-4f7e-97ea-9c722890ecbe.png" width="500" /></p>
+  
+  
+  
+## Stats:
+
+![Nileema's GitHub stats](https://github-readme-stats.vercel.app/api?username=NileemaS&show_icons=true&hide=contribs&theme=gruvbox_light)
+[![Langs Used for Dev](https://github-readme-stats.vercel.app/api/top-langs/?username=NileemaS&custom_title=Languages%20Used&theme=gruvbox_light&hide=Dockerfile&layout=compact)](https://github.com/NileemaS/github-readme-stats)
+
+
 <br>
-
-
-
-
-
 
 
 ### License ([^note]) 
