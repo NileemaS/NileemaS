@@ -11,7 +11,7 @@
 * [Author](#author)   
 * [Projects](#projects)
 * [Technologies](#technologies)
-* [Built With and License](#used) 
+* [Used and License](#used) 
 
 
 
