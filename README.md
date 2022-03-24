@@ -8,21 +8,18 @@
 ## Table of Contents 
 
 * [Installation](#installation)
-* [Contact](#contact)   
+* [Contact](#contact)
+* [ReadMe for Projects](#readme)   
 * [Projects](#projects)
 * [Technologies](#technologies)
 * [Github Stats and License](#stats) 
 
 
 
-<p><a href="mailto:nileemashah@yahoo.com">Email Me</a></p>
-
-
 <p>[foo<a href="http://example.com/?search=%5D%5Bref%5D">http://example.com/?search=][ref]</a></p>
 
 
-
-
+## README:
 
 [![Bouncing Balls](https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=bouncingballs&theme=highcontrast)](https://nileemas.github.io/bouncingballs)
 
@@ -41,8 +38,8 @@
  
 - <a href="mailto:nileemashah@yahoo.com"><img src = "https://user-images.githubusercontent.com/96500743/159628684-930b27c8-946a-4107-aebe-5f7046b9f6c5.png" alt="Email" />Email Me </a>
 - <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Connect Me </a> 
-- 💼 Nileema Shah: [portfolio](https://NileemaS.github.io)
-- :octocat: Github: [Projects](https://www.github.com/NileemaS)
+- 💼 Nileema Shah: [Portfolio](https://NileemaS.github.io/NileemaS)
+- :octocat: Github: [Bio](https://www.github.com/NileemaS)
 
 
 
