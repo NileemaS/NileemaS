@@ -3,7 +3,11 @@
 
  
  
-<pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" > I'm a starter Fullstack Web Developer thro' MIT|xPRO. <br><p><em> It was a fun to work on all these challenging projects and ready to take a flight again in IT market.</em></p> </pre> 
+<pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" > I'm a starter Fullstack Web Developer in training. <br><p><em> I joined MIT|XPRO course for the Full Stack Development with MERN in December 2021. It was a perfect gift for my New Year 22 from my husband. I worked in IT for almost 10 years then decided to take a break from active career and enjoy the time with kids. My daughter is in 2nd year college and son senior year in high school. It's the perfect time for me to get back in IT world which i missed sometimes.
+Our batch Dec2021 is the perfect class with full of curious minded women and I do enjoying the exercises. It was a fun to work on all these challenging projects and ready to take a flight again in IT market. Ofcourse we are doing more than these projects but displaying my work over here as a part of the assignment.
+Pacmen:
+Eye Exercise:
+Bus Tracker: </em></p> </pre> 
 
 ## Table of Contents 
 
@@ -16,14 +20,9 @@
 
 
 
-
-
 ## README:
 
-[![Bouncing Balls](https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=bouncingballs&theme=highcontrast)](https://nileemas.github.io/bouncingballs)
 
-
- 
  <a href="https://github.com/NileemaS/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=NileemaS" />
 </a>
