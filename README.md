@@ -3,11 +3,25 @@
 
  
  
-<pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" > I'm a starter Fullstack Web Developer in training. <br><p><em> I joined MIT|XPRO course for the Full Stack Development with MERN in December 2021. It was a perfect gift for my New Year 22 from my husband. I worked in IT for almost 10 years then decided to take a break from active career and enjoy the time with kids. My daughter is in 2nd year college and son senior year in high school. It's the perfect time for me to get back in IT world which i missed sometimes.
-Our batch Dec2021 is the perfect class with full of curious minded women and I do enjoying the exercises. It was a fun to work on all these challenging projects and ready to take a flight again in IT market. Ofcourse we are doing more than these projects but displaying my work over here as a part of the assignment.
-Pacmen:
-Eye Exercise:
-Bus Tracker: </em></p> </pre> 
+<pre><img align="center" src="./bb.gif.gif" alt="Bouncing Balls GIF" > I'm a starter Fullstack Web Developer in training. <br><p><em> 
+I joined MIT|XPRO course for the Full Stack Development with MERN in December 2021.
+<details><summary>More...</summary>
+<p>
+It was the perfect gift for my New Year 22 from my husband. 
+I have worked in IT for almost 10 years then decided to take a break from active career and 
+enjoyed the time with kids, involved with their school and activities like secretory in PTA, running Chess club and volunteered. 
+My daughter is now in 2nd year college and son senior year in high school. It's the perfect time for me to get back in IT world which 
+i missed sometimes.
+Our batch Dec2021 is the perfect class with full of curious minded women and I do enjoying the exercises. 
+It was a fun to work on all these challenging projects and ready to take a flight again in IT market. 
+Ofcourse we are doing more than these projects in day to day exercises but displaying my 3 projects over here as a part of the assignment.
+Pacmen: Fun to watch them moving all over the screen and turning back from the walls.
+Eye Exercise: Two big eyes follow the mouse movements.
+Bus Tracker: On the map, it shows active buses live tracking with bus stop markers.
+
+</p>
+</details>
+</em></p> </pre> 
 
 ## Table of Contents 
 
