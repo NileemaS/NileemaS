@@ -79,11 +79,13 @@ This application is compatible with the most commonly used web browsers.
 
 ## Projects:
 
+
 | Exercises |  icon | Description | Link |
 | :---: | :---: | :---: | :---: |
-| PacMen |<img width="20" src="PacMan1.png" alt="pac man 1 image"> | PacMen Factory Repository |  |
-| Eye | 👀 | Eye Exercise Repository |  |
-| Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  |
+| Home | 🏡 | Profile Repository | https://nileemas.github.io/profile/ |
+| PacMen |<img width="20" src="PacMan1.png" alt="pac man 1 image"> | PacMen Factory Repository |  https://nileemas.github.io/pacmen/ |
+| Eye | 👀 | Eye Exercise Repository |  https://nileemas.github.io/eye/ |
+| Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  https://nileemas.github.io/bustracker/ |
 
 
 
