@@ -36,12 +36,10 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 
 ## README:
 
+ReadMe is a developer's profile project, where they'll be able to create their own portfolio and maintain a blog for their knowledge.
 
  <a href="https://github.com/NileemaS/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=NileemaS" />
-</a>
-<a href="https://github.com/NileemaS/bouncingballs">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=bouncingballs" />
 </a>
  
   
