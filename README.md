@@ -23,6 +23,7 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 </details>
 </em></p> </pre> 
 
+
 ## Table of Contents 
 
 * [Installation](#installation)
@@ -41,8 +42,7 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
  <a href="https://github.com/NileemaS/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=NileemaS" />
 </a>
- 
-  
+   
  
 ## Contact:  
  
@@ -50,7 +50,6 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 - <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Connect Me </a> 
 - 💼 Nileema Shah: [Portfolio](https://NileemaS.github.io/NileemaS)
 - :octocat: Github: [Bio](https://www.github.com/NileemaS)
-
 
 
 ## Installation:
@@ -86,7 +85,6 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 
 
 
-
 ## Technologies:
 <p>
     <img src="https://img.shields.io/badge/-HTML-orange?style=for-the-badge"  alt="HMTL" />
@@ -98,8 +96,7 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 
  <p float="left">
   <img src="https://user-images.githubusercontent.com/96500743/156902929-21b303ee-e8ce-4f7e-97ea-9c722890ecbe.png" width="500" /></p>
-  
-  
+    
   
 ## Stats:
 
