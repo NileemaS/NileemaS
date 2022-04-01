@@ -35,9 +35,9 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 
 
 ## README:
-
-ReadMe is a developer's profile project, where they'll be able to create their own portfolio and maintain a blog for their knowledge.
-
+>
+>ReadMe is a developer's profile project, where they'll be able to create their own portfolio and maintain a blog for their knowledge.
+>
  <a href="https://github.com/NileemaS/github-readme-stats">
   <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=NileemaS" />
 </a>
@@ -54,9 +54,9 @@ ReadMe is a developer's profile project, where they'll be able to create their o
 
 
 ## Installation:
-
-This application is compatible with the most commonly used web browsers.
-
+>
+>This application is compatible with the most commonly used web browsers.
+>
 
 
 <!---
@@ -77,13 +77,12 @@ This application is compatible with the most commonly used web browsers.
 
 ## Projects:
 
-
-| Exercises |  icon | Description | Link |
-| :---: | :---: | :---: | :---: |
-| Home | 🏡 | Profile Repository | https://nileemas.github.io/profile/ |
-| PacMen |<img width="20" src="PacMan1.png" alt="pac man 1 image"> | PacMen Factory Repository |  https://nileemas.github.io/pacmen/ |
-| Eye | 👀 | Eye Exercise Repository |  https://nileemas.github.io/eye/ |
-| Bus Tracking | 🚌 | Real Time Bus Tracking Repository |  https://nileemas.github.io/bustracker/ |
+| Exercises | Click Icon to Play | Description | README |
+| :---: | :---: | :---: | :------: |
+| Home | [ 🏡 ](https://nileemas.github.io/profile/) | Profile Repository | [ Profile ReadMe](https://github.com/NileemaS/profile/blob/main/README.md) |
+| PacMen | [<img width="20" src="./PacMan1.png" alt="pac man 1 image" />](https://nileemas.github.io/pacmen/) | PacMen Factory Repository | [ Pacmen ReadMe](https://github.com/NileemaS/pacmen/blob/main/README.md) |
+| Eye | [ 👀 ](https://nileemas.github.io/eye/) | Eye Exercise Repository | [ Eye ReadMe](https://github.com/NileemaS/eye/blob/main/README.md) |
+| Bus Tracking | [ 🚌]( https://nileemas.github.io/bustracker/) | Real Time Bus Tracking Repository | [ Bus Tracker ReadMe](https://github.com/NileemaS/bustracker/blob/main/README.md) |
 
 
 
