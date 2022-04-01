@@ -28,28 +28,9 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 
 * [Installation](#installation)
 * [Contact](#contact)
-* [ReadMe for Projects](#readme)   
 * [Projects](#projects)
 * [Technologies](#technologies)
 * [Github Stats and License](#stats) 
-
-
-
-## README:
->
->ReadMe is a developer's profile project, where they'll be able to create their own portfolio and maintain a blog for their knowledge.
->
- <a href="https://github.com/NileemaS/github-readme-stats">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/pin/?username=NileemaS&repo=NileemaS" />
-</a>
-   
- 
-## Contact:  
- 
-- <a href="mailto:nileemashah@yahoo.com"><img src = "https://user-images.githubusercontent.com/96500743/159628684-930b27c8-946a-4107-aebe-5f7046b9f6c5.png" alt="Email" />Email Me </a>
-- <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Connect Me </a> 
-- 💼 Nileema Shah: [Portfolio](https://NileemaS.github.io/NileemaS)
-- :octocat: Github: [Bio](https://www.github.com/NileemaS)
 
 
 ## Installation:
@@ -61,8 +42,21 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 >Fork a repo
 >
 >A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
->[ How to Fork Instructions ] (https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+> [How to Fork? Click here for the Instructions](https://docs.github.com/en/get-started/quickstart/fork-a-repo)
 >
+
+
+ 
+## Contact:  
+ 
+- <a href="mailto:nileemashah@yahoo.com"><img src = "https://user-images.githubusercontent.com/96500743/159628684-930b27c8-946a-4107-aebe-5f7046b9f6c5.png" alt="Email" />Email Me </a>
+
+- <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Connect Me </a> 
+
+- 💼 Nileema Shah: [Portfolio](https://NileemaS.github.io/NileemaS)
+
+- :octocat: Github: [Bio](https://www.github.com/NileemaS)
+
 
 
 
