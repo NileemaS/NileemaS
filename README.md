@@ -56,6 +56,14 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 >
 >This application is compatible with the most commonly used web browsers.
 >
+>To run this smoothly, need index.html file and all the supporting files in the above list except README.md and LICENSE
+>
+>Fork a repo
+>
+>A fork is a copy of a repository. Forking a repository allows you to freely experiment with changes without affecting the original project.
+>[ How to Fork Instructions ] (https://docs.github.com/en/get-started/quickstart/fork-a-repo)
+>
+
 
 
 <!---
