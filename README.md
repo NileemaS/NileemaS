@@ -59,11 +59,7 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 
 - <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Connect Me </a> 
 
-- 💼 Nileema Shah: [Portfolio](https://NileemaS.github.io/NileemaS)
-
-- :octocat: Github: [Bio](https://www.github.com/NileemaS)
-
-
+[ Bio README](https://github.com/NileemaS/NileemaS.github.io/blob/main/README.md)
 
 
 <!---
