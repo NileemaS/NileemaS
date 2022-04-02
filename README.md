@@ -59,7 +59,7 @@ Bus Tracker: On the map, it shows active buses live tracking with bus stop marke
 
 - <a href="https://www.linkedin.com/feed/"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin& logoColor=white" alt="LinkedIn Badge"/> Connect Me </a> 
 
-[<img src="githubicon"> Bio README](https://github.com/NileemaS/NileemaS.github.io/blob/main/README.md)
+- <a href="https://github.com/NileemaS/NileemaS.github.io/blob/main/README.md"><img src = "./githubicon.png" alt="github icon img" />README for Bio </a>
 
 
 <!---
